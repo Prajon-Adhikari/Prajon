@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello, I'm **[Prajon Adhikari]**, a passionate developer who loves building web applications, solving problems, and learning new technologies. I specialize in **React**, **Node.js**, and **VB.NET**, and I enjoy experimenting with modern web frameworks and APIs.
+Hello, I'm **[ Prajon Adhikari ]**, a passionate developer who loves building web applications, solving problems, and learning new technologies. I specialize in **React**, **Node.js**, and I enjoy experimenting with modern web frameworks and APIs.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prajon-Adhikari&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
@@ -28,13 +28,12 @@ Hello, I'm **[Prajon Adhikari]**, a passionate developer who loves building web 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 📊 Analytics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajon-Adhikari&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prajon-Adhikari&theme=radical)
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Prajon-Adhikari&theme=radical)
-![Commit Frequency](https://github-readme-stats.vercel.app/api/wakatime?username=Prajon-Adhikari&layout=compact&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prajon-Adhikari&theme=radical&column=5)
 
 ## 💡 My Projects
@@ -62,9 +61,9 @@ A React-based profile page that allows users to view and update their profile in
 
 ## 📫 How to Reach Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- 📧 Email: [prajonadhikari44@gmail.com](mailto:prajonadhikari44@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
 
 ## 💬 Fun Fact
 
