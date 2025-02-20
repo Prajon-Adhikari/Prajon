@@ -27,7 +27,6 @@ Hello, I'm **[ Prajon Adhikari ]**, a passionate developer who loves building we
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
@@ -35,29 +34,6 @@ Hello, I'm **[ Prajon Adhikari ]**, a passionate developer who loves building we
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajon-Adhikari&layout=compact&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prajon-Adhikari&theme=radical&column=5)
-
-## 💡 My Projects
-
-### 🛠 [Weather App](https://github.com/prajon-adhikari/weather-app)
-A weather app that displays current weather details based on user input using an external API.
-
-- 🌦️ Fetches data from OpenWeatherMap API
-- 🎨 Dynamic UI with React and CSS animations
-- 📱 Responsive design
-
-### 📚 [Bus Reservation System](https://github.com/prajon-adhikari/bus-reservation-system)
-A VB.NET project that allows users to reserve seats on buses, view seat availability, and manage bookings.
-
-- 🚌 Displays available buses and their seat arrangements
-- ✅ Validates user input for seat bookings
-- 🔒 Secure user authentication
-
-### 👩‍💻 [My Profile](https://github.com/prajon-adhikari/my-profile)
-A React-based profile page that allows users to view and update their profile information.
-
-- 🖼️ Profile picture upload
-- ✍️ Editable personal and address information
-- 🔐 Secure user authentication using JWT tokens
 
 ## 📫 How to Reach Me
 
