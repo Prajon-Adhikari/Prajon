@@ -38,8 +38,8 @@ Hello, I'm **[ Prajon Adhikari ]**, a passionate developer who loves building we
 ## 📫 How to Reach Me
 
 - 📧 Email: [prajonadhikari44@gmail.com](mailto:prajonadhikari44@gmail.com)  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/prajon-adhikari-49869733a)  
-- [![X](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/yourusername)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([www.linkedin.com/in/prajon-adhikari-49869733a](https://www.linkedin.com/in/prajon-adhikari-49869733a/))  
+- [![X](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)]([https://twitter.com/yourusername](https://x.com/prajon123))
 
   
 ## 💬 Fun Fact
