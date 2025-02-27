@@ -37,12 +37,13 @@ Hello, I'm **[ Prajon Adhikari ]**, a passionate developer who loves building we
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [prajonadhikari44@gmail.com](mailto:prajonadhikari44@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
+- 📧 Email: [prajonadhikari44@gmail.com](mailto:prajonadhikari44@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/prajon-adhikari-49869733a)  
+- [![X](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/yourusername)
 
+  
 ## 💬 Fun Fact
 
-In addition to coding, I love gaming, photography, and learning about the latest trends in tech!
+In addition to coding, I love gaming and learning about the latest trends in tech!
 
 Thank you for visiting my profile! Feel free to check out my repositories and contribute to any of my open-source projects. I'm always open to collaboration and learning new things.
